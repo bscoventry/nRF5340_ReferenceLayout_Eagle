@@ -6,3 +6,5 @@ This is a recreation of Nordic's reference layout for the nRF5340 in Eagle. The 
 This is implemented for the reference circuit configuration 3, which has the following configuration parameters:
 ![alt text](https://github.com/bscoventry/nRF5340_ReferenceLayout_Eagle/blob/main/nrf5340_config3.png?raw=true)
 This can be easily ajdusted to other configurations by minor changes to reference schematic and board layout.
+
+Note: This does require a 4 layer board due to Eagle restrictions on microvias. Will fix this in later iterations.
